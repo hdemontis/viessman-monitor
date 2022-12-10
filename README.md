@@ -2,6 +2,12 @@
 
 A free alternative to ViCarePlus (https://www.viessmann.fr/fr/produits/connectivite/vicare-app/vicare-plus.html)
 
+### Working setup :
+- Viessmann Vitodens 100-W
+- Raspberry Pi 3B+
+
+### Basic usage
+
 Read the doc from [PyViCare](https://github.com/somm15/PyViCare) before first use.
 
 Credentials for logging to the [Viessmann Developer Portal](https://developer.viessmann.com/) are stored in a file called `config.ini` with :
