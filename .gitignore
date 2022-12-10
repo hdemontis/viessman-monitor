@@ -1,0 +1,13 @@
+# fichier de configuration
+config.ini
+
+# environnement python
+.env/**/*
+__pycache__/**/*
+build/**/*
+
+# autres
+data/**/*
+*.csv
+*.save
+.DS_Store
