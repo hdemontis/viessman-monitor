@@ -19,4 +19,4 @@ Monitoring is performed by simply running the script `monitor.py`.
 > ```
 
 Datas are saved in a CSV-type database, inside a directory next to `monitor.py`.
-> the data directory is called by default `data`, and can be easily change in the script.
+> The data directory is called by default `data`, and can be easily change in the script.
